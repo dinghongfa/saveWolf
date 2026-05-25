@@ -93,7 +93,7 @@
         b = e(1);
         var c = b.webm
           , k = b.mp4
-          , g = "undefined" !== typeof navigator && 10 > parseFloat(("" + (/CPU.*OS ([0-9_]{3,4})[0-9_]{0,1}|(CPU like).*AppleWebKit.*Mobile/i.exec(navigator.userAgent) || [0, ""])[1]).replace("undefined", "3_2").replace("_", "index.29693.js").replace("_", "")) && !window.MSStream
+          , g = "undefined" !== typeof navigator && 10 > parseFloat(("" + (/CPU.*OS ([0-9_]{3,4})[0-9_]{0,1}|(CPU like).*AppleWebKit.*Mobile/i.exec(navigator.userAgent) || [0, ""])[1]).replace("undefined", "3_2").replace("_", "index.6a48d.js").replace("_", "")) && !window.MSStream
           , h = "wakeLock"in navigator;
         b = function() {
             function b() {
